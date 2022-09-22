@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args)
     {
         System.out.println("What is number 1?");
-        int num1 = 5;
+        int num1 = 8;
         System.out.println("What is number 2?");
-        int num2 = 8;
+        int num2 = 5;
 
         if (num1 > num2)
             System.out.println("number 1 is larger, number 2 is smaller");
